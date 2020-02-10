@@ -30,5 +30,6 @@ Tip:换背景音乐的话,只需要把 `index_files/music.mp3` 换成你自己�
 <img src="./index_files/love-tree.gif"/>
 
 ## 结尾
-
+感谢GitHub大佬给弄得模板，附上大佬链接：
+https://github.com/AJLoveChina
 
